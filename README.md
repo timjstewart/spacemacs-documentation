@@ -1,4 +1,4 @@
-# Spacemacs Features #
+# Spacemacs #
 ## Buffers ##
 ### Go to the Messages buffer ###
 
@@ -53,7 +53,7 @@ Press `SPC n w` to widen to the entire buffer.
 
 ### Search All Buffers ###
 
-Press `SPC r b** to search for a string in all open buffers.
+Press `SPC r b` to search for a string in all open buffers.
 
 ### Insert from Kill Ring ##
 
